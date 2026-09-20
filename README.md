@@ -1,6 +1,5 @@
 # 🛠️ FADEC Health Monitoring System (Avionics RTOS Project)
-
-This project simulates an **RTOS-style sensor scheduler** for **avionics health monitoring**, inspired by the **FADEC (Full Authority Digital Engine Control)** system used in jet engines like the **Rolls-Royce Trent 900**.
+C++ avionics health monitor — EGT, RPM, altimeter & bleed valve fault detection with BITE logging, inspired by Rolls-Royce Trent 900 FADEC. DO-178C philosophy.**.
 
 ---
 
